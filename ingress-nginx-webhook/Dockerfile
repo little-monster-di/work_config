@@ -1,2 +1,2 @@
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
+FROM egistry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
 MAINTAINER hudi
