@@ -1,2 +1,2 @@
-FROM docker.elastic.co/apm/apm-server:7.17.20
+FROM docker.elastic.co/apm/apm-server:8.13.0
 MAINTAINER hu.di
