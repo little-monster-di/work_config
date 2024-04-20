@@ -1,2 +1,2 @@
-FROM docker.elastic.co/beats/metricbeat:7.17.20
+FROM docker.elastic.co/beats/metricbeat:8.13.0
 MAINTAINER hu.di
