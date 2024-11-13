@@ -1,0 +1,2 @@
+FROM kindest/node:v1.23.17@sha256:59c989ff8a517a93127d4a536e7014d28e235fb3529d9fba91b3951d461edfdb
+MAINTAINER hu.di
